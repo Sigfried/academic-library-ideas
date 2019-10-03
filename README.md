@@ -19,7 +19,7 @@ Ideas for services and projects for the library of a large research university (
 ## Research about library services (and infrastructure to support it)
 
   - data and API availability
-    - to what degree do vendors make APIs open to library clients?
+    - to what degree do vendors make APIs open to libraries?
     - to what degree does the library make APIs or other data access open to
       researchers or the academic community?
     - can these be expanded?
